@@ -203,7 +203,7 @@ DATABASE_URL=postgresql://user:password@localhost:5432/smarttodo
 
 ## 🎓 Author
 
-Made by \ Nerraj Pathak for Full Stack Developer Assignment 🚀
+Made by \ Neeraj Pathak for Full Stack Developer Assignment 🚀
 
 ---
 

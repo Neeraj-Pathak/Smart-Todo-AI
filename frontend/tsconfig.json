@@ -1,0 +1,40 @@
+{
+  "compilerOptions": {
+    /* === Path alias so "@/lib/api" works === */
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"]
+    },
+
+    /* === Core compiler flags === */
+    "target": "ES2017",
+    "lib": ["dom", "dom.iterable", "esnext"],
+
+    /* 🔒 Turn strictness and casing ON */
+    "strict": true,                          // ← enable full type‑safety
+    "forceConsistentCasingInFileNames": true,// ← avoid case‑mix issues on Mac/Linux
+
+    /* === Typical Next.js settings === */
+    "allowJs": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+    "incremental": true,
+    "module": "esnext",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+
+    /* Next.js TS plugin */
+    "plugins": [{ "name": "next" }]
+  },
+
+  "include": [
+    "next-env.d.ts",
+    ".next/types/**/*.ts",
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "exclude": ["node_modules"]
+}

@@ -1,0 +1,12 @@
+# Ignore Python venv and cache
+venv*/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node modules
+node_modules/
+
+# Env files
+.env

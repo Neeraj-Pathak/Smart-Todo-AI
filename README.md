@@ -20,7 +20,7 @@ Built with:
 * **Frontend:** Next.js + Tailwind CSS
 * **Backend:** Django REST Framework
 * **AI:** LM Studio / OpenAI API (Optional)
-* **Database:** PostgreSQL (local or Supabase)
+* **Database:** PostgreSQL (local )
 
 ---
 
@@ -61,7 +61,7 @@ Built with:
 
 * Python 3.10+
 * Node.js 18+
-* PostgreSQL or Supabase DB (Optional)
+* PostgreSQL
 
 ### ⚡ Backend (Django)
 

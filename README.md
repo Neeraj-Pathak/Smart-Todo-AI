@@ -50,23 +50,10 @@ Built with:
 
 ## 🔍 Screenshots
 
-### 🔢 Dashboard
+![2](https://github.com/user-attachments/assets/2031e7eb-d6d2-4d7f-91c7-091931ffb0fe)
+![1](https://github.com/user-attachments/assets/8a30b402-2e23-4f52-85f7-795f9e673115)
+![3](https://github.com/user-attachments/assets/0473591a-5720-48e0-88f9-d03afc54de56)
 
-![Dashboard](screenshots/dashboard.png)
-
-### ➕ AI-Enhanced Task Creation
-
-![Create Task](screenshots/create-task.png)
-
-### 📄 Context Input Page
-
-![Context Page](screenshots/context.png)
-
-### ☾ Dark Mode Toggle
-
-![Dark Mode](screenshots/dark-mode.png)
-
----
 
 ## 📚 Setup Instructions
 
